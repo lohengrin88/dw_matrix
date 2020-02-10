@@ -1,2 +1,2 @@
 # dw_matrix
-Projekt Transformacji - Szkolenie
+Projekt Transformacji - Szkolenie z DataWorkshop
